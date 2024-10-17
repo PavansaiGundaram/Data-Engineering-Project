@@ -1,6 +1,9 @@
 # Data-Engineering-Project
 Here we are trying to create a ETL pipeline using Docker container, Apache airflow, AWS S3 and then analyzing it with AWS Glue studio, AWS Glue catalog, AWS Athena and Quicksight.
 
+## Architecture of the Project:
+![Data WorkFlow](./Flowcharts(1).jpeg)
+
 ## 1. Create a Directory for Airflow
 bash
 Copy code
